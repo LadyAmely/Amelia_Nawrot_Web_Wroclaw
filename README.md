@@ -3,11 +3,11 @@
 
 1. Clone the repository
  
-`git clone https://github.com/LadyAmely/Veggable.git`
+`https://github.com/LadyAmely/Amelia_Nawrot_Web_Wroclaw.git`
 
 2. Navigate to the project directory
    
-`cd Veggable`
+`cd Amelia_Nawrot_Web_Wroclaw`
 
 3. Install dependencies
 
